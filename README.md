@@ -1,5 +1,9 @@
 # Unified Office Workspace — Public Documentation
 
-Jekyll documentation is maintained under [`docs/`](docs/). Source code resides in the private [`r14r/unified-office-workshop`](https://github.com/r14r/unified-office-workshop) repository.
+Jekyll site source: [`docs/`](docs/).
 
-Published URL (once GitHub Pages has been enabled): https://r14r.github.io/unified-office-workshop-public/
+Published URL: https://r14r.github.io/unified-office-workshop-public/
+
+GitHub Pages configuration: **Deploy from a branch → main → /docs**. GitHub Pages builds the Jekyll site automatically. Do not add a `.nojekyll` file to `docs/`.
+
+Private application repository: https://github.com/r14r/unified-office-workshop
