@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Architecture
-nav_order: 3
+sidebar: 2
 ---
 # Architecture
 

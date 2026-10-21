@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Roadmap
-nav_order: 4
+sidebar: 4
 ---
 # Roadmap
 

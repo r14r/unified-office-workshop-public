@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Home
-nav_order: 1
+sidebar: 1
 ---
 # Unified Office Workspace
 
