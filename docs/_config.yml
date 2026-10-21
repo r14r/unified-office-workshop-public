@@ -1,14 +1,22 @@
 title: Unified Office Workspace
-description: Documentation for the self-hosted unified office workspace
+description: Technische Dokumentation der Office-Plattform
 url: https://r14r.github.io
 baseurl: /unified-office-workshop-public
-remote_theme: just-the-docs/just-the-docs
-color_scheme: light
-search_enabled: true
-aux_links:
-  GitHub: https://github.com/r14r/unified-office-workshop-public
-plugins:
-  - jekyll-remote-theme
-exclude:
-  - Gemfile
-  - Gemfile.lock
+lang: de
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+styles:
+  brand-color: "#426c91"
+  link-text-decoration: none
+sidebar:
+  pages: true
+  categories: false
+  tags: false
+  contact: false
+  legal: false
+defaults:
+  - scope: {path: "", type: pages}
+    values: {layout: page}
+exclude: [Gemfile, Gemfile.lock, vendor, .bundle]
