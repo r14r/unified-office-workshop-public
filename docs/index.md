@@ -5,14 +5,15 @@ nav_order: 1
 ---
 # Unified Office Workspace
 
-A self-hosted, modular personal office workspace built with Nuxt 4, Nuxt UI, FastAPI, and PostgreSQL.
+A self-hosted modular personal office workspace built with Nuxt 4, Nuxt UI, FastAPI, and PostgreSQL.
 
-> **Development preview:** version 0.1.0 is not production-ready and does not provide authentication.
+> **Development preview:** v0.1.0 does not yet have authentication and must not be deployed publicly.
 
 ## Features
 
-- Interactive notes, tasks, bookmarks and a configurable initial dashboard
-- Hybrid data architecture for native content and later external provider synchronization
-- Planned email and calendar integration
+- Interactive notes, tasks and bookmarks
+- Configurable initial dashboard
+- Hybrid data architecture for future external integrations
+- Planned mail and calendar support
 
-See [Architecture](architecture) and [Getting started](getting-started).
+[Architecture]({{ '/architecture' | relative_url }}) · [Getting started]({{ '/getting-started' | relative_url }}) · [Roadmap]({{ '/roadmap' | relative_url }})
