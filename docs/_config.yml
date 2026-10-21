@@ -3,7 +3,7 @@ description: Documentation for the self-hosted unified office workspace
 url: https://r14r.github.io
 baseurl: /unified-office-workshop-public
 remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
+color_scheme: light
 search_enabled: true
 aux_links:
   GitHub: https://github.com/r14r/unified-office-workshop-public
